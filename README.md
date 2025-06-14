@@ -32,3 +32,5 @@ To revolutionize the recruitment process by leveraging LLMs to automatically ext
 ```bash
 git clone https://github.com/your-username/smarthire-ai.git
 cd smarthire-ai
+
+![image](https://github.com/user-attachments/assets/860304be-64d9-4a75-b566-47d509635d8b)
